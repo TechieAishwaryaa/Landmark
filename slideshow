@@ -1,0 +1,11 @@
+<html>
+<head>
+<script>
+var img="<a><img src="C:\Users\aishw\Downloads\logo1.jpg"></a>";
+document.write(img);
+</script>
+</head>
+<body>
+
+</body>
+</html>
